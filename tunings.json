@@ -1,0 +1,27 @@
+{
+    "DEFAULT_TUNING": "E standard",
+    "LAST_SELECTED_TUNING": "Drop A",
+    "ALL_TUNINGS": {
+        "6-String": {
+            "E standard": "E A D G B E",
+            "Half-Step Down / Eb standard": "Eb Ab Db Gb Bb Eb",
+            "Drop D": "D A D G B E",
+            "D Standard": "D G C F A D",
+            "Drop C": "C G C F A D",
+            "Drop B": "B F# B E G# C#",
+            "Drop A": "A E A D F# B",
+            "Open G": "D G D G B D",
+            "Open D": "D A D F# A D",
+            "DADGAD": "D A D G A D"
+        },
+        "7-String": {
+            "B standard": "B E A D G B E",
+            "Drop A": "A E A D G B E",
+            "Drop G": "G D G C F A D"
+        },
+        "8-String": {
+            "F# standard": "F# B E A D G B E",
+            "Drop E": "E B E A D G B E"
+        }
+    }
+}
